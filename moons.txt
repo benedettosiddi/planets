@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 here moons
 moons line added by moons
-=======
 even more moons
 moonlight
->>>>>>> master
+
